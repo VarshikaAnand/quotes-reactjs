@@ -15,5 +15,5 @@
     font-weight: 300;
     font-style: normal;
     color: rgb(15, 68, 26);
-    word-wrap: break-word;
+    overflow-y: scroll;
 }
