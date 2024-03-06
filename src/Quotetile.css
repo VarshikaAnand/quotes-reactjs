@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Oswald&display=swap');
+.qdiv{
+    background:linear-gradient(rgb(242, 220, 134),rgb(255, 255, 255));
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+    padding: 30px;
+    height:300px;
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+    color: rgb(15, 68, 26);
+    word-wrap: break-word;
+}
